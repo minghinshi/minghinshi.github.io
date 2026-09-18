@@ -1,0 +1,13 @@
+# What it was like to play incremental games
+
+In most summer vacations, I crave playing incremental games at least once. Incremental games are a genre of games whose gameplay loop mainly consists of producing something, buying upgrades to increase production, and repeating _ad infinitum_. They are likely more addicting than other video games — not in the everyday sense, but in the clinical sense, like drug addiction — because this loop of "push a button, get instant reward" is one of the most effective ways to reinforce behaviour.
+
+Recently, I've been recording my mood levels after doing things that I believe would make me happy. I might write another blog post about that later. Because I thought incremental games might make me happy, and because I wanted to scratch that itch, I decided to let myself return to them for as long as the record says they actually make me happy.
+
+I started two days ago. It was somewhat fun. I watched the numbers go up and the craziness unfold. However, it was already unlike what my craving suggested it would be. When I craved, I was fixated on the next big upgrade that will make you a ton of progress. But these moments of gratification are spaced far apart. Most of the time, you're simply watching the screen, watching everything move. It was like watching a YouTube video. Playing incremental games did not involve much skill. Although strategy was involved, it was more like mindlessly tending a garden, checking to make sure everything is okay.
+
+Yesterday, I did not play. Then the craving hit. I had trouble falling asleep. I lost over an hour of sleep. The craving was sometimes not attached to a particular imagery. All I had was a tightness in my chest that I knew was related to the game, and I was not sure how to relieve it. I've been practising mindfulness, so I tried to focus on the physical sensations of the craving. It ceased after about 30 minutes.
+
+Today, I was craving again. It was like planning. It was like, "I'm going to make a lot of progress today." I gave in. The morning went by much like the first day. However, I kept going, into the afternoon. Eventually, pleasure was no longer involved in sustaining the activity. My self-imposed goalpost was the only thing that kept me going. The grid felt long and boring, and I was too tired to know what I was doing, but I kept going.
+
+My record shows that incremental games provide little pleasure and sense of mastery. They become chores you cannot stop doing for the sake of progress. That is part of why they are addicting. My mind was suggesting that incremental games are much more fun than they really are. So, I have decided to quit. Let's see how much time it takes this time.
