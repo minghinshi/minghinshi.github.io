@@ -13,8 +13,8 @@ Bachelor of Engineering in Computer Science, with a minor in Psychology. The Uni
 
 ## Previous jobs
 
-- Jun-Aug 2026: Casual helper of the [Mental health, Internet, Neuroscience & Decision-making (MIND) Lab](https://psychology.hku.hk/research-laboratories/) at HKU. Meta-analysis data extraction and experiment task design.
-- Jun-Aug 2025: XR + AI developer intern of [VOTANIC](https://www.votanic.com/). Implementation and optimization of a rendering algorithm in VR.
+- Jun 2026–present: Casual helper of the [Mental health, Internet, Neuroscience & Decision-making (MIND) Lab](https://psychology.hku.hk/research-laboratories/) at HKU. Meta-analysis data extraction; study task design.
+- Jun–Aug 2025: XR + AI developer intern of [VOTANIC](https://www.votanic.com/). Implementation and optimization of a rendering algorithm in VR.
 
 ## Contact
 
