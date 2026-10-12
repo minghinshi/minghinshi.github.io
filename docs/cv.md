@@ -8,7 +8,7 @@ Bachelor of Engineering in Computer Science, with a minor in Psychology. The Uni
 
 ## Projects
 
-- AI Stacker: [Source code](https://github.com/minghinshi/ai-stacker). AI agent plays Tetris. Almost entirely "vibe coded" using [Hermes Agent](https://hermes-agent.nousresearch.com/docs/). Toy project to explore coding agents and creating AI agents in applications. In development.
+- OLMoE distillation: [Source code](https://github.com/minghinshi/olmoe-distillation), [model checkpoints](https://huggingface.co/minghinshi/OLMoE-distill). Interview homework. An attempt at creating a dense version of a mixture-of-experts (MoE) model by copying expert weights, then distilling the MoE into the dense model.
 - Puzzpals: [Website](https://puzzpals.buckbc.com/), [source code](https://github.com/Buck4437/puzzpals). Final year project with two teammates. A collaborative multiplayer logic puzzle (e.g., Sudoku, Numberlink, Nonogram) web application.
 
 ## Previous jobs

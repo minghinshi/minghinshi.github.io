@@ -10,7 +10,7 @@
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
     "format": "prettier . --write",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "devDependencies": {
     "husky": "^9.1.7",
