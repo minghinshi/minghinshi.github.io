@@ -15,6 +15,7 @@ export default defineConfig({
           items: [
             { text: "Hello, World!", link: "/posts/hello-world" },
             { text: "AI info sites", link: "/posts/ai-research" },
+            { text: "AI runs channels", link: "/posts/ai-runs-channels" },
             { text: "Social media", link: "/posts/social-media" },
             { text: "Incremental games", link: "/posts/incremental-games" },
             { text: "Minecraft modpack", link: "/posts/minecraft-modpack" },
