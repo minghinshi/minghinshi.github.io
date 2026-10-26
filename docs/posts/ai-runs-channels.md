@@ -86,7 +86,7 @@ Anthropic, especially their CEO Dario Amodei, is specifically worried about Chin
 
 However, people now seem more concerned that an [AI race](http://ai-2027.com/) will [kill all humans](http://ifanyonebuildsit.com/). Some want the US to [make a deal with China](https://ai-2040.com/) to [slow down](https://darioamodei.com/post/we-must-pace-the-frontier). I would even endorse mutually stopping, in part because today's AI models are great. They can solve open math problems, [hack websites](https://huggingface.wtf/), and, well, run channels! I think capability improvements from here mostly leads to job loss, cybersecurity threats, and existential risk.
 
-For the time being, Anthropic upgraded their defences against distillation attacks, possibly leading to more aggressive suspension of Chinese Claude accounts. Aspiring Chinese users took [drastic actions](https://www.bilibili.com/zh-Hans/video/BV1G9J46SEUj) to fly under te radar. Some avoided using simplified Chinese for both the UI and their prompts. Some purchased verification services to avoid uploading their Chinese ID card. Some adapted their sleep schedule to that of Americans.
+For the time being, Anthropic upgraded their defences against distillation attacks, possibly leading to more aggressive suspension of Chinese Claude accounts. Aspiring Chinese users took [drastic actions](https://www.bilibili.com/zh-Hans/video/BV1G9J46SEUj) to fly under the radar. Some avoided using simplified Chinese for both the UI and their prompts. Some purchased verification services to avoid uploading their Chinese ID card. Some adapted their sleep schedule to that of Americans.
 
 Claude is depicted as being trapped in a cage. No, you're in the cage.
 
