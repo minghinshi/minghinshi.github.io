@@ -45,7 +45,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
-        run: pnpm Install
+        run: pnpm install
       - name: Build with VitePress
         run: pnpm run build
       - name: Upload artifact
