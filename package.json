@@ -9,16 +9,16 @@
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
-    "format": "prettier . --write",
+    "format": "oxfmt",
     "prepare": "husky"
   },
   "devDependencies": {
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
-    "prettier": "3.8.0",
+    "oxfmt": "^0.75.0",
     "vitepress": "^2.0.0-alpha.15"
   },
   "lint-staged": {
-    "*": "prettier --write --ignore-unknown"
+    "*": "oxfmt --no-error-on-unmatched-pattern"
   }
 }
