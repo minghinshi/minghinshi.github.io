@@ -15,6 +15,7 @@ export default defineConfig({
           items: [
             { text: "Hello, World!", link: "/posts/hello-world" },
             { text: "AI info sites", link: "/posts/ai-research" },
+            { text: "Pain axis", link: "/posts/pain-axis" },
             { text: "AI runs channels", link: "/posts/ai-runs-channels" },
             { text: "Social media", link: "/posts/social-media" },
             { text: "Incremental games", link: "/posts/incremental-games" },

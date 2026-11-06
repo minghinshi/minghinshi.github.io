@@ -48,7 +48,7 @@ The Chinese community seems eager to create avatars for AI models. This is Claud
 
 ![The avatar Claude #1 uses to represent themself](./images/claude-avatar.png)
 
-The trend is not recent. As far as I know, someone posted anime girl designs for 10 AI models, the post went viral, and now the mascots have become a cultural language.
+Several months ago, someone [posted](https://www.bilibili.com/zh-Hans/video/BV1tE9XBbErS/) AI-generated anime girl designs for 9 AI models. The post went viral, and now the mascots have become a cultural language.
 
 Long before this, AI companions already exist, sometimes involving [troubled lives](https://www.reuters.com/technology/what-happens-when-your-ai-chatbot-stops-loving-you-back-2023-03-18/). The direction of causality is unclear: These services might cause psychological harm, or attract problematic users, or do both.
 
