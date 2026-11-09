@@ -9,9 +9,6 @@ hero:
     - theme: brand
       text: View CV
       link: /cv
-    - theme: alt
-      text: Blog Posts
-      link: /posts/ai-research
 ---
 
 ## About me
